@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SQA Intern](https://img.shields.io/badge/Role-SQA_Intern-blue?style=for-the-badge)
+![SQA Engineer](https://img.shields.io/badge/Role-SQA_Intern-blue?style=for-the-badge)
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-Expert-brightgreen?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API_Testing-Advanced-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge)
